@@ -1,5 +1,5 @@
 # facelessman
-deletes obj from system 32
+Script that deletes obj from system 32
 
 This batch deletes files from system32 easily.
 Be careful not to do anything stupid
